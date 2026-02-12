@@ -8,4 +8,6 @@ Welcome to my website — built from scratch during **National Apprenticeship We
 
 I'm learning how the web works by building something real.
 
+[see my projects](projects.md)
+
 [Find out more about me](about.md)
